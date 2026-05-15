@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Muradyan0013/registration.git/static/css/main.628c4149.css",
+    "main.js": "/Muradyan0013/registration.git/static/js/main.8a7d8ce2.js",
+    "index.html": "/Muradyan0013/registration.git/index.html",
+    "main.628c4149.css.map": "/Muradyan0013/registration.git/static/css/main.628c4149.css.map",
+    "main.8a7d8ce2.js.map": "/Muradyan0013/registration.git/static/js/main.8a7d8ce2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628c4149.css",
+    "static/js/main.8a7d8ce2.js"
+  ]
+}

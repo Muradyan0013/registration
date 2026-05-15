@@ -1,0 +1,9 @@
+.logIn {
+  min-height: calc(100vh - 90px);
+  background: linear-gradient(135deg, #0f0f0f, #1b1b1b);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
