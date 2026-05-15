@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Muradyan0013/registration.git/static/css/main.628c4149.css",
-    "main.js": "/Muradyan0013/registration.git/static/js/main.1dedce89.js",
-    "index.html": "/Muradyan0013/registration.git/index.html",
-    "main.628c4149.css.map": "/Muradyan0013/registration.git/static/css/main.628c4149.css.map",
-    "main.1dedce89.js.map": "/Muradyan0013/registration.git/static/js/main.1dedce89.js.map"
+    "main.css": "/registration/static/css/main.628c4149.css",
+    "main.js": "/registration/static/js/main.1dedce89.js",
+    "index.html": "/registration/index.html",
+    "main.628c4149.css.map": "/registration/static/css/main.628c4149.css.map",
+    "main.1dedce89.js.map": "/registration/static/js/main.1dedce89.js.map"
   },
   "entrypoints": [
     "static/css/main.628c4149.css",
